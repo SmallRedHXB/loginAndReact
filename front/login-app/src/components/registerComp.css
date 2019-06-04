@@ -1,0 +1,17 @@
+.registerDiv{
+    width: 50%;
+    margin-left: 16%;
+    margin-top: 0%;
+}
+
+.toLogin{
+    margin-left: 30px;
+}
+
+.redisterTitle{
+    /* text-align: center; */
+    height: 100px;
+    font-size: 40px;
+    margin-left: 60%;
+    margin-top: 100px;
+}
